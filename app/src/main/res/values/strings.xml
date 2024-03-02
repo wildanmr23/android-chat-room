@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EasyChat</string>
+    <string name="developed_by_easy_tutor">Developed by easy tutor</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="resend_otp_in_30_sec">Resend OTP in 30 sec</string>
+    <string name="next">NEXT</string>
+    <string name="otp">OTP</string>
+    <string name="enter_otp_sent_to_your_phone_number">Enter OTP sent to your phone number</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="let_me_in">LET ME IN</string>
+    <string name="send_otp">SEND OTP</string>
+</resources>
